@@ -49,30 +49,37 @@ JH, Pei YY, Yuan ML, Zhang YL, Dai FH, Liu Y, Wang QM, Zheng JJ,
 Xu L, Holmes EC, Zhang YZ (2020) A new coronavirus associated with
 human respiratory disease in china. Nature 44(59):265–269
 https://www.nature.com/articles/s41586-020-2008-3[1]
+
 [2] Medscape Medical News, The WHO declares public health emergency
 for novel coronavirus (2020)
 https://www.medscape.com/viewarticle/924596[2]
+
 [3] A. F. M. Batista, J. L. Miraglia, T. H. R. Donato and A. D. P. C. Filho,
 ”COVID-19 diagnosis prediction in emergency care patients: a machine
 learning approach”, medRxiv, 2020
 https://www.medrxiv.org/content/10.1101/2020.04.04.20052092v2.full.
 pdf[3]
+
 [4] M. R. H. Mondal, S. Bharati, P. Podder and P. Podder, ”Data analytics
 for novel coronavirus disease”, Informatics in Medicine Unlocked
 Elsevier, vol. 20, pp. 100374, 2020
 https://www.researchgate.net/publication/342195015 Data analytics
 for novel coronavirus disease[4]
+
 [5] D. Goodman-Meza, A. Rudas, J. N. Chiang, P. C. Adamson, J. Ebinger
 et al., ”A machine learning algorithm to increase COVID-19 inpatient
 diagnostic capacity”, PLOS ONE, vol. 15, no. 9, pp. e0239474, 2020.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7508387/[5]
+
 [6] P. Schwab, A. D. Sch¨utte, B. Dietz and S. Bauer, ”Clinical predictive
 models for COVID-19: systematic study”, J Med Internet Res, vol. 22,
 no. 10, pp. e21439, 2020.https://www.jmir.org/2020/10/e21439/[6]
+
 [7] Y. Sun, V. Koh, K. Marimuthu, O. T. Ng, B. Young, S. Vasoo, M. Chan et
 al., ”Epidemiological and clinical predictors of COVID-19”, Clin Infect
 Dis, vol. 71, no. 15, pp. 786-792, Jul 2020.
 https://academic.oup.com/cid/article/71/15/786/5811426[7]
+
 [8] Z. Meng, M. Wang, H. Song, S. Guo, Y. Zhou, W. Li et al., ”Development
 and utilization of an intelligent application for aiding COVID-19
 diagnosis”, medRxiv, 2020.
